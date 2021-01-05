@@ -5,7 +5,8 @@ Juansa here, I am learning these fancy tools for the sake of Computational Chemi
 I find fiscinating the convergence between computers and molecules.
 
 I just found some good resources:
-1. Learning Lab https://lab.github.com
+1. Learning Lab: https://lab.github.com
+2. GitHub Guides: https://guides.github.com
 
 I just found some good videos:
 1. Git & GitHub Crash Course For Beginners: https://www.youtube.com/watch?v=SWYqp7iY_Tc
