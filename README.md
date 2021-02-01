@@ -16,3 +16,6 @@ With regards to R:
 1. Writing R in VSCode: A Fresh Start https://renkun.me/2019/12/11/writing-r-in-vscode-a-fresh-start/
 2. Build A Blog With Jekyll And GitHub Pages https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 3. How to set up your own R blog with Github pages and Jekyll Bootstrap https://shiring.github.io/blogging/2016/12/04/diy_your_own_blog
+
+Computational Chemistry:
+1. Pythoninchemistry https://pythoninchemistry.org
