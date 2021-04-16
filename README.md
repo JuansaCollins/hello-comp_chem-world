@@ -1,4 +1,4 @@
-# hello-world
+# hello-comp_chem-world
 My first repository, perhaps where I will be adding useful resources.
 
 Juansa here, I am learning these fancy tools for the sake of Computational Chemistry, Machine Learning and Data Science.
@@ -19,3 +19,11 @@ With regards to R:
 
 Computational Chemistry:
 1. Pythoninchemistry https://pythoninchemistry.org
+
+
+Resources for Gaussian Processs Regression / Kriging:
+- Gaussian Processses for Machine Learning, Rasmussen & Williams http://www.gaussianprocess.org/gpml/chapters/RW.pdf
+- A visual exploration of Gaussian Processes https://distill.pub/2019/visual-exploration-gaussian-processes/
+- Gaussian Processes for Dummies https://katbailey.github.io/post/gaussian-processes-for-dummies/
+- Understanding Gaussian Processes https://peterroelants.github.io/posts/gaussian-process-tutorial/
+- Gaussian Process, Wiki https://en.wikipedia.org/wiki/Gaussian_process
