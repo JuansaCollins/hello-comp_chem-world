@@ -4,7 +4,7 @@ My first repository, perhaps where I will be adding useful resources.
 Juansa here, I am learning these fancy tools for the sake of Computational Chemistry, Machine Learning and Data Science.
 I find fiscinating the convergence between computers and molecules.
 
-I just found some good resources:
+I just found some good resources for learning Git and GitHub (version control):
 1. Learning Lab: https://lab.github.com
 2. GitHub Guides: https://guides.github.com
 
