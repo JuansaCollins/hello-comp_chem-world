@@ -27,3 +27,5 @@ Resources for Gaussian Processs Regression / Kriging:
 - Gaussian Processes for Dummies https://katbailey.github.io/post/gaussian-processes-for-dummies/
 - Understanding Gaussian Processes https://peterroelants.github.io/posts/gaussian-process-tutorial/
 - Gaussian Process, Wiki https://en.wikipedia.org/wiki/Gaussian_process
+
+*This is a change made from my local cloned version, this is being used for test purposes only*
